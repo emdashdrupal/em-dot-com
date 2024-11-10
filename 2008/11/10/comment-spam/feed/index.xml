@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+xmlns:podcast="https://podcastindex.org/namespace/1.0"
+xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
+xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Comment spam	</title>
+	<atom:link href="/2008/11/10/comment-spam/feed/" rel="self" type="application/rss+xml" />
+	<link>/2008/11/10/comment-spam/</link>
+	<description>Technical Writer, Content Strategist, Podcaster, and beer lover</description>
+	<lastBuildDate>Wed, 12 Nov 2008 04:57:15 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+	<item>
+		<title>
+		By: Knah		</title>
+		<link>/2008/11/10/comment-spam/#comment-150</link>
+
+		<dc:creator><![CDATA[Knah]]></dc:creator>
+		<pubDate>Wed, 12 Nov 2008 04:57:15 +0000</pubDate>
+		<guid isPermaLink="false">/?p=75#comment-150</guid>
+
+					<description><![CDATA[WE LOVE YOU ED!!!11!!!
+
+-signed
+
+&quot;the Spam Bots&quot;]]></description>
+			<content:encoded><![CDATA[<p>WE LOVE YOU ED!!!11!!!</p>
+<p>-signed</p>
+<p>&#8220;the Spam Bots&#8221;</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+xmlns:podcast="https://podcastindex.org/namespace/1.0"
+xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
+xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: On Adobe Framemaker 9, DITA, and XML	</title>
+	<atom:link href="/2009/01/23/on-adobe-framemaker-9-dita-and-xml-2/feed/" rel="self" type="application/rss+xml" />
+	<link>/2009/01/23/on-adobe-framemaker-9-dita-and-xml-2/</link>
+	<description>Technical Writer, Content Strategist, Podcaster, and beer lover</description>
+	<lastBuildDate>Tue, 30 Nov 2010 11:54:32 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+	<item>
+		<title>
+		By: Jewel Piermarini		</title>
+		<link>/2009/01/23/on-adobe-framemaker-9-dita-and-xml-2/#comment-548</link>
+
+		<dc:creator><![CDATA[Jewel Piermarini]]></dc:creator>
+		<pubDate>Tue, 30 Nov 2010 11:54:32 +0000</pubDate>
+		<guid isPermaLink="false">/?p=107#comment-548</guid>
+
+					<description><![CDATA[I&#039;m still learning from you, but I&#039;m trying to reach my goals. I certainly liked reading everything that is posted on your blog.Keep the tips coming. I enjoyed it]]></description>
+			<content:encoded><![CDATA[<p>I&#8217;m still learning from you, but I&#8217;m trying to reach my goals. I certainly liked reading everything that is posted on your blog.Keep the tips coming. I enjoyed it</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

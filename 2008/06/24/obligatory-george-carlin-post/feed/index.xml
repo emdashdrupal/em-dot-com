@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+xmlns:podcast="https://podcastindex.org/namespace/1.0"
+xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
+xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Obligatory George Carlin post.	</title>
+	<atom:link href="/2008/06/24/obligatory-george-carlin-post/feed/" rel="self" type="application/rss+xml" />
+	<link>/2008/06/24/obligatory-george-carlin-post/</link>
+	<description>Technical Writer, Content Strategist, Podcaster, and beer lover</description>
+	<lastBuildDate>Sun, 30 Mar 2014 13:49:24 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+	<item>
+		<title>
+		By: Ed Marsh		</title>
+		<link>/2008/06/24/obligatory-george-carlin-post/#comment-15869</link>
+
+		<dc:creator><![CDATA[Ed Marsh]]></dc:creator>
+		<pubDate>Sun, 30 Mar 2014 13:49:24 +0000</pubDate>
+		<guid isPermaLink="false">/?p=28#comment-15869</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/2008/06/24/obligatory-george-carlin-post/#comment-15744&quot;&gt;paul&lt;/a&gt;.
+
+Another friend of mine receently mentioned Maron, Paul; I&#039;d not heard of him before that. Turns out he also has a TV show. I&#039;ll have to check him out.]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/2008/06/24/obligatory-george-carlin-post/#comment-15744">paul</a>.</p>
+<p>Another friend of mine receently mentioned Maron, Paul; I&#8217;d not heard of him before that. Turns out he also has a TV show. I&#8217;ll have to check him out.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: paul		</title>
+		<link>/2008/06/24/obligatory-george-carlin-post/#comment-15744</link>
+
+		<dc:creator><![CDATA[paul]]></dc:creator>
+		<pubDate>Fri, 21 Mar 2014 18:03:18 +0000</pubDate>
+		<guid isPermaLink="false">/?p=28#comment-15744</guid>
+
+					<description><![CDATA[Do you follow other comics?
+There&#039;s one in particular I enjoy, &lt;a title=&quot;The Lena Dunham episode of Maron&#039;s WTF podcast&quot; href=&quot;http://www.wtfpod.com/podcast/episodes/episode_479_-_lena_dunham&quot; rel=&quot;nofollow&quot;&gt;Marc Maron&lt;/a&gt;. His stuff isn&#039;t necessarily funny all the time but interested and he&#039;s mostly quite forthright which IMO is the mojo of comics. During the Lena Dunham episode, they get into some typical stuff. LD starts at 12:30, if you&#039;re down.]]></description>
+			<content:encoded><![CDATA[<p>Do you follow other comics?<br />
+There&#8217;s one in particular I enjoy, <a title="The Lena Dunham episode of Maron's WTF podcast" href="http://www.wtfpod.com/podcast/episodes/episode_479_-_lena_dunham" rel="nofollow">Marc Maron</a>. His stuff isn&#8217;t necessarily funny all the time but interested and he&#8217;s mostly quite forthright which IMO is the mojo of comics. During the Lena Dunham episode, they get into some typical stuff. LD starts at 12:30, if you&#8217;re down.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

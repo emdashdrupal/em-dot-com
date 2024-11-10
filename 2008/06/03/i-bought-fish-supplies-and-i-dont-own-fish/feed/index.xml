@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+xmlns:podcast="https://podcastindex.org/namespace/1.0"
+xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
+xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: I bought fish supplies, and I don&#8217;t own fish	</title>
+	<atom:link href="/2008/06/03/i-bought-fish-supplies-and-i-dont-own-fish/feed/" rel="self" type="application/rss+xml" />
+	<link>/2008/06/03/i-bought-fish-supplies-and-i-dont-own-fish/</link>
+	<description>Technical Writer, Content Strategist, Podcaster, and beer lover</description>
+	<lastBuildDate>Wed, 08 Sep 2010 02:40:43 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+	<item>
+		<title>
+		By: The First Annual Eddie Awards!		</title>
+		<link>/2008/06/03/i-bought-fish-supplies-and-i-dont-own-fish/#comment-415</link>
+
+		<dc:creator><![CDATA[The First Annual Eddie Awards!]]></dc:creator>
+		<pubDate>Wed, 31 Dec 2008 18:11:08 +0000</pubDate>
+		<guid isPermaLink="false">/?p=19#comment-415</guid>
+
+					<description><![CDATA[[...] of the year: Simcorillo IPA. I didn&#8217;t brew as much as I would&#8217;ve liked, but this was a [...]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] of the year: Simcorillo IPA. I didn&#8217;t brew as much as I would&#8217;ve liked, but this was a [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: stupidGirlFriend		</title>
+		<link>/2008/06/03/i-bought-fish-supplies-and-i-dont-own-fish/#comment-12</link>
+
+		<dc:creator><![CDATA[stupidGirlFriend]]></dc:creator>
+		<pubDate>Mon, 16 Jun 2008 17:59:16 +0000</pubDate>
+		<guid isPermaLink="false">/?p=19#comment-12</guid>
+
+					<description><![CDATA[sGF homebrewing QuickTip #1:  Don&#039;t expect homebrewing to save you money.   Seriously, you called that beer Whazzup Wit? Sigh.]]></description>
+			<content:encoded><![CDATA[<p>sGF homebrewing QuickTip #1:  Don&#8217;t expect homebrewing to save you money.   Seriously, you called that beer Whazzup Wit? Sigh.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: edmarsh.com &#187; Blog Archive &#187; IPA Update		</title>
+		<link>/2008/06/03/i-bought-fish-supplies-and-i-dont-own-fish/#comment-10</link>
+
+		<dc:creator><![CDATA[edmarsh.com &#187; Blog Archive &#187; IPA Update]]></dc:creator>
+		<pubDate>Mon, 16 Jun 2008 17:35:53 +0000</pubDate>
+		<guid isPermaLink="false">/?p=19#comment-10</guid>
+
+					<description><![CDATA[[...] Sunday, I transferred my latest India Pale Ale (IPA) from primary fermenter to secondary. While secondary is technically a misnomer (no further [...]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] Sunday, I transferred my latest India Pale Ale (IPA) from primary fermenter to secondary. While secondary is technically a misnomer (no further [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: edmarsh.com &#187; Blog Archive &#187; IPA Update		</title>
+		<link>/2008/06/03/i-bought-fish-supplies-and-i-dont-own-fish/#comment-9</link>
+
+		<dc:creator><![CDATA[edmarsh.com &#187; Blog Archive &#187; IPA Update]]></dc:creator>
+		<pubDate>Mon, 16 Jun 2008 17:33:03 +0000</pubDate>
+		<guid isPermaLink="false">/?p=19#comment-9</guid>
+
+					<description><![CDATA[[...] Sunday, i transferred my latest India Pale Ale (IPA) from primary fermenter to secondary. While secondary is technically a misnomer, i have found [...]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] Sunday, i transferred my latest India Pale Ale (IPA) from primary fermenter to secondary. While secondary is technically a misnomer, i have found [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

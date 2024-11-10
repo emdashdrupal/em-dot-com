@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+xmlns:podcast="https://podcastindex.org/namespace/1.0"
+xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
+xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: What Adobe Should Put in Framemaker 10	</title>
+	<atom:link href="/2009/03/05/what-adobe-should-put-in-framemaker-10/feed/" rel="self" type="application/rss+xml" />
+	<link>/2009/03/05/what-adobe-should-put-in-framemaker-10/</link>
+	<description>Technical Writer, Content Strategist, Podcaster, and beer lover</description>
+	<lastBuildDate>Fri, 18 Feb 2011 13:51:18 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+	<item>
+		<title>
+		By: edmarsh		</title>
+		<link>/2009/03/05/what-adobe-should-put-in-framemaker-10/#comment-703</link>
+
+		<dc:creator><![CDATA[edmarsh]]></dc:creator>
+		<pubDate>Fri, 18 Feb 2011 13:51:18 +0000</pubDate>
+		<guid isPermaLink="false">/?p=115#comment-703</guid>
+
+					<description><![CDATA[Victor, can&#039;t answer your question, unfortunately.
+
+I was at an Adobe seminar this past week that introduced the Technical Communication Suite 3. Of course they handed out demo CDs. I installed Frame 10 only, and other than a new, cleaner look, it still seems to be the same old Frame underneath the hood. Same menus, same order. It looks like they&#039;ve done a lot with the structured side, but how many people are really using that? From the 30-40 people at the seminar in NYC, one raised their hand when asked if using structured authoring.]]></description>
+			<content:encoded><![CDATA[<p>Victor, can&#8217;t answer your question, unfortunately.</p>
+<p>I was at an Adobe seminar this past week that introduced the Technical Communication Suite 3. Of course they handed out demo CDs. I installed Frame 10 only, and other than a new, cleaner look, it still seems to be the same old Frame underneath the hood. Same menus, same order. It looks like they&#8217;ve done a lot with the structured side, but how many people are really using that? From the 30-40 people at the seminar in NYC, one raised their hand when asked if using structured authoring.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: victor		</title>
+		<link>/2009/03/05/what-adobe-should-put-in-framemaker-10/#comment-702</link>
+
+		<dc:creator><![CDATA[victor]]></dc:creator>
+		<pubDate>Fri, 18 Feb 2011 00:38:48 +0000</pubDate>
+		<guid isPermaLink="false">/?p=115#comment-702</guid>
+
+					<description><![CDATA[Can anybody say whether integration with Design science Mathtype is better in FrameMaker 10? Especially with respect to inline equations...
+
+Thanks]]></description>
+			<content:encoded><![CDATA[<p>Can anybody say whether integration with Design science Mathtype is better in FrameMaker 10? Especially with respect to inline equations&#8230;</p>
+<p>Thanks</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Hillary Rogers		</title>
+		<link>/2009/03/05/what-adobe-should-put-in-framemaker-10/#comment-699</link>
+
+		<dc:creator><![CDATA[Hillary Rogers]]></dc:creator>
+		<pubDate>Thu, 10 Feb 2011 18:57:59 +0000</pubDate>
+		<guid isPermaLink="false">/?p=115#comment-699</guid>
+
+					<description><![CDATA[What I would like to see, since I am being forced to use this program that I hated 10 years ago when I was forced to use it then and still do:
+
+Make it so double clicking on text with the select object tool changes it back to smart select
+
+Make CTRL+Home / End function
+
+Make it so we can move graphics using the up/down/left/right arrows]]></description>
+			<content:encoded><![CDATA[<p>What I would like to see, since I am being forced to use this program that I hated 10 years ago when I was forced to use it then and still do:</p>
+<p>Make it so double clicking on text with the select object tool changes it back to smart select</p>
+<p>Make CTRL+Home / End function</p>
+<p>Make it so we can move graphics using the up/down/left/right arrows</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Bill Hagen		</title>
+		<link>/2009/03/05/what-adobe-should-put-in-framemaker-10/#comment-549</link>
+
+		<dc:creator><![CDATA[Bill Hagen]]></dc:creator>
+		<pubDate>Wed, 01 Dec 2010 14:26:46 +0000</pubDate>
+		<guid isPermaLink="false">/?p=115#comment-549</guid>
+
+					<description><![CDATA[In general Frame needs a complete overhaul to bring it up to par with modern software.
+
+But this would be my number one request: We always used graphics &quot;imported by reference.&quot; So if you cut and paste a few pages with graphics to another Frame document, you have to delete, move, and re-import each graphic so the link is to the current document and not the one you copied from. I&#039;m not sure it would be possible, but if Frame could do all this automatically when you cut and paste, it would be a huge benefit in terms of convenience and productivity.]]></description>
+			<content:encoded><![CDATA[<p>In general Frame needs a complete overhaul to bring it up to par with modern software.</p>
+<p>But this would be my number one request: We always used graphics &#8220;imported by reference.&#8221; So if you cut and paste a few pages with graphics to another Frame document, you have to delete, move, and re-import each graphic so the link is to the current document and not the one you copied from. I&#8217;m not sure it would be possible, but if Frame could do all this automatically when you cut and paste, it would be a huge benefit in terms of convenience and productivity.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: edmarsh		</title>
+		<link>/2009/03/05/what-adobe-should-put-in-framemaker-10/#comment-544</link>
+
+		<dc:creator><![CDATA[edmarsh]]></dc:creator>
+		<pubDate>Thu, 11 Nov 2010 15:52:38 +0000</pubDate>
+		<guid isPermaLink="false">/?p=115#comment-544</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/2009/03/05/what-adobe-should-put-in-framemaker-10/#comment-543&quot;&gt;Dallas DITA User&lt;/a&gt;.
+
+I&#039;m still using FM 7.2, because I&#039;m a single writer, and there&#039;s no real reason for me to use DITA. I looked at Frame 9, and other than the new UI to make it more consistent with the Creative Suite, it was still old Frame. Not even the menus changed.
+
+Interesting stats, though. Something to consider for those thinking about the move to DITA.]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/2009/03/05/what-adobe-should-put-in-framemaker-10/#comment-543">Dallas DITA User</a>.</p>
+<p>I&#8217;m still using FM 7.2, because I&#8217;m a single writer, and there&#8217;s no real reason for me to use DITA. I looked at Frame 9, and other than the new UI to make it more consistent with the Creative Suite, it was still old Frame. Not even the menus changed.</p>
+<p>Interesting stats, though. Something to consider for those thinking about the move to DITA.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Dallas DITA User		</title>
+		<link>/2009/03/05/what-adobe-should-put-in-framemaker-10/#comment-543</link>
+
+		<dc:creator><![CDATA[Dallas DITA User]]></dc:creator>
+		<pubDate>Wed, 10 Nov 2010 15:24:24 +0000</pubDate>
+		<guid isPermaLink="false">/?p=115#comment-543</guid>
+
+					<description><![CDATA[Ironic how all the new effort is for DITA. We&#039;ve tried FM9 with DITA and now are moving to Oxygen Author 12 because FM9 is so glacially slow.
+
+It takes 10 hours each to build a multi-volume doc set with FM9 vs. 45 minutes using the DITA open toolkit.]]></description>
+			<content:encoded><![CDATA[<p>Ironic how all the new effort is for DITA. We&#8217;ve tried FM9 with DITA and now are moving to Oxygen Author 12 because FM9 is so glacially slow.</p>
+<p>It takes 10 hours each to build a multi-volume doc set with FM9 vs. 45 minutes using the DITA open toolkit.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Essendon Dentist		</title>
+		<link>/2009/03/05/what-adobe-should-put-in-framemaker-10/#comment-528</link>
+
+		<dc:creator><![CDATA[Essendon Dentist]]></dc:creator>
+		<pubDate>Fri, 12 Feb 2010 06:12:03 +0000</pubDate>
+		<guid isPermaLink="false">/?p=115#comment-528</guid>
+
+					<description><![CDATA[As long as there is full 64bit support I am happy, I cant stand howe many high end programs dont cater for high end pc users properly.]]></description>
+			<content:encoded><![CDATA[<p>As long as there is full 64bit support I am happy, I cant stand howe many high end programs dont cater for high end pc users properly.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Gana		</title>
+		<link>/2009/03/05/what-adobe-should-put-in-framemaker-10/#comment-445</link>
+
+		<dc:creator><![CDATA[Gana]]></dc:creator>
+		<pubDate>Sun, 21 Jun 2009 18:04:42 +0000</pubDate>
+		<guid isPermaLink="false">/?p=115#comment-445</guid>
+
+					<description><![CDATA[Increase the number of recently opened files (MRU list) say upto any configurable number ex 32, let it be configurable in the general preferences or maker.ini file.   Its paradoxical that one can open more tabs than the MRU list can hold. Its dangerous to leave files open as tabs just to avoid having to find and open.]]></description>
+			<content:encoded><![CDATA[<p>Increase the number of recently opened files (MRU list) say upto any configurable number ex 32, let it be configurable in the general preferences or maker.ini file.   Its paradoxical that one can open more tabs than the MRU list can hold. Its dangerous to leave files open as tabs just to avoid having to find and open.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Gana		</title>
+		<link>/2009/03/05/what-adobe-should-put-in-framemaker-10/#comment-444</link>
+
+		<dc:creator><![CDATA[Gana]]></dc:creator>
+		<pubDate>Thu, 28 May 2009 02:58:54 +0000</pubDate>
+		<guid isPermaLink="false">/?p=115#comment-444</guid>
+
+					<description><![CDATA[Citation Management, Zotero and Refworks support.
+
+Similar to MS-Office, there must be away to apply formatting &quot;format equations&quot; to all mathtype equations in the document at one go. Otherwise changing font size for all mathtype equations one by one is v tedious.]]></description>
+			<content:encoded><![CDATA[<p>Citation Management, Zotero and Refworks support.</p>
+<p>Similar to MS-Office, there must be away to apply formatting &#8220;format equations&#8221; to all mathtype equations in the document at one go. Otherwise changing font size for all mathtype equations one by one is v tedious.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Gana		</title>
+		<link>/2009/03/05/what-adobe-should-put-in-framemaker-10/#comment-443</link>
+
+		<dc:creator><![CDATA[Gana]]></dc:creator>
+		<pubDate>Thu, 21 May 2009 02:30:32 +0000</pubDate>
+		<guid isPermaLink="false">/?p=115#comment-443</guid>
+
+					<description><![CDATA[* Better integration with Design science Mathtype, 
+for MATHML and MATHML export.
+* Inline Equations are a nightmare
+The internal frame-math isn&#039;t Upto the mark, and maybe too much to ask internal Mathml support.
+
+Figure and Table placement should include page specification, there seems to be no way to specify to put on top of &quot;next&quot; page, top of last page.]]></description>
+			<content:encoded><![CDATA[<p>* Better integration with Design science Mathtype,<br />
+for MATHML and MATHML export.<br />
+* Inline Equations are a nightmare<br />
+The internal frame-math isn&#8217;t Upto the mark, and maybe too much to ask internal Mathml support.</p>
+<p>Figure and Table placement should include page specification, there seems to be no way to specify to put on top of &#8220;next&#8221; page, top of last page.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: LarrySouth		</title>
+		<link>/2009/03/05/what-adobe-should-put-in-framemaker-10/#comment-442</link>
+
+		<dc:creator><![CDATA[LarrySouth]]></dc:creator>
+		<pubDate>Tue, 31 Mar 2009 11:59:13 +0000</pubDate>
+		<guid isPermaLink="false">/?p=115#comment-442</guid>
+
+					<description><![CDATA[1. Style inheritance--even Open Office does this. Give me the option to chain styles within a document / book / project. Or not, if I don&#039;t want to. After all, I can already have lebbenty-lebben numbering series (well, 37) so why can&#039;t I control styles better. Even Lotus WordPro does a better job...
+
+2. and while we&#039;re browsing through Open Office, how about the ability to classify styles as Default, Available, In Use, etc? Also, add Used In Condition xxx to make life interesting.
+
+3. Find/Replace that (a) works (maybe using the full power of regular expressions), and (b) works across multiple documents / books / projects.
+
+4. An explanation of structured documents that makes sense and explains why as well as what, and shows examples...]]></description>
+			<content:encoded><![CDATA[<p>1. Style inheritance&#8211;even Open Office does this. Give me the option to chain styles within a document / book / project. Or not, if I don&#8217;t want to. After all, I can already have lebbenty-lebben numbering series (well, 37) so why can&#8217;t I control styles better. Even Lotus WordPro does a better job&#8230;</p>
+<p>2. and while we&#8217;re browsing through Open Office, how about the ability to classify styles as Default, Available, In Use, etc? Also, add Used In Condition xxx to make life interesting.</p>
+<p>3. Find/Replace that (a) works (maybe using the full power of regular expressions), and (b) works across multiple documents / books / projects.</p>
+<p>4. An explanation of structured documents that makes sense and explains why as well as what, and shows examples&#8230;</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: edmarsh		</title>
+		<link>/2009/03/05/what-adobe-should-put-in-framemaker-10/#comment-441</link>
+
+		<dc:creator><![CDATA[edmarsh]]></dc:creator>
+		<pubDate>Fri, 06 Mar 2009 20:50:51 +0000</pubDate>
+		<guid isPermaLink="false">/?p=115#comment-441</guid>
+
+					<description><![CDATA[Tables in general are a nightmare! I don&#039;t user footnotes, so I hadn&#039;t considered their functionality. 
+-=Ed.]]></description>
+			<content:encoded><![CDATA[<p>Tables in general are a nightmare! I don&#8217;t user footnotes, so I hadn&#8217;t considered their functionality.<br />
+-=Ed.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Ronney		</title>
+		<link>/2009/03/05/what-adobe-should-put-in-framemaker-10/#comment-440</link>
+
+		<dc:creator><![CDATA[Ronney]]></dc:creator>
+		<pubDate>Fri, 06 Mar 2009 20:47:28 +0000</pubDate>
+		<guid isPermaLink="false">/?p=115#comment-440</guid>
+
+					<description><![CDATA[I think you could add support for splitted footnotes (like Indesign) and splitted table cell (like Word)]]></description>
+			<content:encoded><![CDATA[<p>I think you could add support for splitted footnotes (like Indesign) and splitted table cell (like Word)</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

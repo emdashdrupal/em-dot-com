@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+xmlns:podcast="https://podcastindex.org/namespace/1.0"
+xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
+xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Blogging Ain&#8217;t Easy	</title>
+	<atom:link href="/2008/05/28/blogging-aint-easy/feed/" rel="self" type="application/rss+xml" />
+	<link>/2008/05/28/blogging-aint-easy/</link>
+	<description>Technical Writer, Content Strategist, Podcaster, and beer lover</description>
+	<lastBuildDate>Sun, 30 Mar 2014 14:09:30 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+	<item>
+		<title>
+		By: Ed Marsh		</title>
+		<link>/2008/05/28/blogging-aint-easy/#comment-15870</link>
+
+		<dc:creator><![CDATA[Ed Marsh]]></dc:creator>
+		<pubDate>Sun, 30 Mar 2014 14:09:30 +0000</pubDate>
+		<guid isPermaLink="false">/?p=14#comment-15870</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/2008/05/28/blogging-aint-easy/#comment-15742&quot;&gt;paul&lt;/a&gt;.
+
+I think my problem is that I really don&#039;t want to write about tech writing all the time, but then my blog lacks focus. I have so many interests that it makes it hard to choose just one. Add to that when I come home at the end of the day, I don&#039;t feel like writing at all. I have several posts I started and never finished. Seems like when I do get an idea, i can bang it out quickly and move on, but that&#039;s few and far between. Oh well.]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/2008/05/28/blogging-aint-easy/#comment-15742">paul</a>.</p>
+<p>I think my problem is that I really don&#8217;t want to write about tech writing all the time, but then my blog lacks focus. I have so many interests that it makes it hard to choose just one. Add to that when I come home at the end of the day, I don&#8217;t feel like writing at all. I have several posts I started and never finished. Seems like when I do get an idea, i can bang it out quickly and move on, but that&#8217;s few and far between. Oh well.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: paul		</title>
+		<link>/2008/05/28/blogging-aint-easy/#comment-15743</link>
+
+		<dc:creator><![CDATA[paul]]></dc:creator>
+		<pubDate>Fri, 21 Mar 2014 14:14:41 +0000</pubDate>
+		<guid isPermaLink="false">/?p=14#comment-15743</guid>
+
+					<description><![CDATA[For example, how can one comment on a video like &lt;a href=&quot;http://youtu.be/zAtnBzDZvsk&quot; rel=&quot;nofollow&quot;&gt;this one from NASA&lt;/a&gt;. Boggles the mind.]]></description>
+			<content:encoded><![CDATA[<p>For example, how can one comment on a video like <a href="http://youtu.be/zAtnBzDZvsk" rel="nofollow">this one from NASA</a>. Boggles the mind.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: paul		</title>
+		<link>/2008/05/28/blogging-aint-easy/#comment-15742</link>
+
+		<dc:creator><![CDATA[paul]]></dc:creator>
+		<pubDate>Fri, 21 Mar 2014 13:41:34 +0000</pubDate>
+		<guid isPermaLink="false">/?p=14#comment-15742</guid>
+
+					<description><![CDATA[IMO, blogging, like writing a diary, is a worthy effort and guaranteed to improve ones writing, if it&#039;s continued.
+My biggest problem the many times I tried to do it, wasn&#039;t finding topics to write about but rather trimming them down to manageable size. It was so easy to wing off into some topic that inevitably lead to ideas to explore that were interesting and fun but thin ice.]]></description>
+			<content:encoded><![CDATA[<p>IMO, blogging, like writing a diary, is a worthy effort and guaranteed to improve ones writing, if it&#8217;s continued.<br />
+My biggest problem the many times I tried to do it, wasn&#8217;t finding topics to write about but rather trimming them down to manageable size. It was so easy to wing off into some topic that inevitably lead to ideas to explore that were interesting and fun but thin ice.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

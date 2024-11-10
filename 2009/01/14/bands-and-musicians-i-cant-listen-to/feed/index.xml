@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+xmlns:podcast="https://podcastindex.org/namespace/1.0"
+xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
+xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Bands and musicians I can&#8217;t listen to	</title>
+	<atom:link href="/2009/01/14/bands-and-musicians-i-cant-listen-to/feed/" rel="self" type="application/rss+xml" />
+	<link>/2009/01/14/bands-and-musicians-i-cant-listen-to/</link>
+	<description>Technical Writer, Content Strategist, Podcaster, and beer lover</description>
+	<lastBuildDate>Mon, 19 Jan 2009 03:17:01 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+	<item>
+		<title>
+		By: jason		</title>
+		<link>/2009/01/14/bands-and-musicians-i-cant-listen-to/#comment-419</link>
+
+		<dc:creator><![CDATA[jason]]></dc:creator>
+		<pubDate>Mon, 19 Jan 2009 03:17:01 +0000</pubDate>
+		<guid isPermaLink="false">/?p=96#comment-419</guid>
+
+					<description><![CDATA[bjork rules! but her new stuff stinks.
+
+moby and radiohead are good too.
+
+what do you like then?]]></description>
+			<content:encoded><![CDATA[<p>bjork rules! but her new stuff stinks.</p>
+<p>moby and radiohead are good too.</p>
+<p>what do you like then?</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

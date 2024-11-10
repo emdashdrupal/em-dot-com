@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+xmlns:podcast="https://podcastindex.org/namespace/1.0"
+xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
+xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Green Day	</title>
+	<atom:link href="/2008/04/24/green-day/feed/" rel="self" type="application/rss+xml" />
+	<link>/2008/04/24/green-day/</link>
+	<description>Technical Writer, Content Strategist, Podcaster, and beer lover</description>
+	<lastBuildDate>Thu, 24 Apr 2008 15:57:35 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+	<item>
+		<title>
+		By: SGf		</title>
+		<link>/2008/04/24/green-day/#comment-5</link>
+
+		<dc:creator><![CDATA[SGf]]></dc:creator>
+		<pubDate>Thu, 24 Apr 2008 15:57:35 +0000</pubDate>
+		<guid isPermaLink="false">/?p=10#comment-5</guid>
+
+					<description><![CDATA[Wow - natural cleaning products!  That&#039;s a terrific idea.  I hear they work great, too.  =D
+
+I&#039;m evil; my used plasticware goes in the trash.  Although I re-purpose them when I can - that useless plastic knife becomes a tea stirrer before it meets its demise... Yes, I drink tea.]]></description>
+			<content:encoded><![CDATA[<p>Wow &#8211; natural cleaning products!  That&#8217;s a terrific idea.  I hear they work great, too.  =D</p>
+<p>I&#8217;m evil; my used plasticware goes in the trash.  Although I re-purpose them when I can &#8211; that useless plastic knife becomes a tea stirrer before it meets its demise&#8230; Yes, I drink tea.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

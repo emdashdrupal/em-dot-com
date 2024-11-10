@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+xmlns:podcast="https://podcastindex.org/namespace/1.0"
+xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
+xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Font Conference &#8211; CollegeHumor video	</title>
+	<atom:link href="/2008/07/23/font-conference-collegehumor-video/feed/" rel="self" type="application/rss+xml" />
+	<link>/2008/07/23/font-conference-collegehumor-video/</link>
+	<description>Technical Writer, Content Strategist, Podcaster, and beer lover</description>
+	<lastBuildDate>Wed, 29 Oct 2008 14:14:34 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+	<item>
+		<title>
+		By: Asalie		</title>
+		<link>/2008/07/23/font-conference-collegehumor-video/#comment-140</link>
+
+		<dc:creator><![CDATA[Asalie]]></dc:creator>
+		<pubDate>Wed, 29 Oct 2008 14:14:34 +0000</pubDate>
+		<guid isPermaLink="false">/?p=35#comment-140</guid>
+
+					<description><![CDATA[Keep up the good work.]]></description>
+			<content:encoded><![CDATA[<p>Keep up the good work.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

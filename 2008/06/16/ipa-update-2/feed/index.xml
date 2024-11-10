@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+xmlns:podcast="https://podcastindex.org/namespace/1.0"
+xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
+xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: IPA Update	</title>
+	<atom:link href="/2008/06/16/ipa-update-2/feed/" rel="self" type="application/rss+xml" />
+	<link>/2008/06/16/ipa-update-2/</link>
+	<description>Technical Writer, Content Strategist, Podcaster, and beer lover</description>
+	<lastBuildDate>Mon, 16 Jun 2008 17:55:27 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+	<item>
+		<title>
+		By: stupidGirlFriend		</title>
+		<link>/2008/06/16/ipa-update-2/#comment-11</link>
+
+		<dc:creator><![CDATA[stupidGirlFriend]]></dc:creator>
+		<pubDate>Mon, 16 Jun 2008 17:55:27 +0000</pubDate>
+		<guid isPermaLink="false">/?p=25#comment-11</guid>
+
+					<description><![CDATA[I can attest that Ed&#039;s new IPA is going to be delish.  I can also attest that it&#039;s amusing when Ed putters around the house for an hour after the official tasting, periodically pausing with a nirvana-like expression to exclaim, &quot;Dang, that was good beer!&quot;]]></description>
+			<content:encoded><![CDATA[<p>I can attest that Ed&#8217;s new IPA is going to be delish.  I can also attest that it&#8217;s amusing when Ed putters around the house for an hour after the official tasting, periodically pausing with a nirvana-like expression to exclaim, &#8220;Dang, that was good beer!&#8221;</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

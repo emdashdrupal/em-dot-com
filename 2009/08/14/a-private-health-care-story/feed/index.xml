@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+xmlns:podcast="https://podcastindex.org/namespace/1.0"
+xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
+xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: A Private Health &#8220;Care&#8221; Story	</title>
+	<atom:link href="/2009/08/14/a-private-health-care-story/feed/" rel="self" type="application/rss+xml" />
+	<link>/2009/08/14/a-private-health-care-story/</link>
+	<description>Technical Writer, Content Strategist, Podcaster, and beer lover</description>
+	<lastBuildDate>Tue, 15 Sep 2009 22:09:01 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+	<item>
+		<title>
+		By: Michael		</title>
+		<link>/2009/08/14/a-private-health-care-story/#comment-454</link>
+
+		<dc:creator><![CDATA[Michael]]></dc:creator>
+		<pubDate>Tue, 15 Sep 2009 22:09:01 +0000</pubDate>
+		<guid isPermaLink="false">/?p=122#comment-454</guid>
+
+					<description><![CDATA[Nice recap, I didn&#039;t know about the hotel. Don&#039;t you wish you could go back and tell the 28-year old Ed about your condo, Stephanie, and trip to Germany. Pretty nice change in 11 years, huh? 
+
+btw, you misspelled &#039;despite&#039; HA !!]]></description>
+			<content:encoded><![CDATA[<p>Nice recap, I didn&#8217;t know about the hotel. Don&#8217;t you wish you could go back and tell the 28-year old Ed about your condo, Stephanie, and trip to Germany. Pretty nice change in 11 years, huh? </p>
+<p>btw, you misspelled &#8216;despite&#8217; HA !!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
